@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Hill Climbing Race",
+  "description": "A 2D physics-based racing game where you drive up hills and collect coins.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
